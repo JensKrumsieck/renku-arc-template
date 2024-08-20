@@ -1,4 +1,5 @@
-- folder: renku-arc
+- id: renku-arc
   name: renku-arc
   description: "Renku using an ARC structure"
   variables: {}
+  ssh_supported: true
