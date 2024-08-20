@@ -3,5 +3,5 @@ This repository contains a renku template which was initialized using the [ARCCo
 To use this template please use the following `renku init` command:
 
 ```bash
-renku init -s https://github.com/JensKrumsieck/renku-arc-template --datadir assays
+renku init -s https://github.com/JensKrumsieck/renku-arc-template
 ```
