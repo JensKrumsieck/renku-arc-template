@@ -1,0 +1,4 @@
+- folder: renku-arc
+  name: renku-arc
+  description: "Renku using an ARC structure"
+  variables: {}
